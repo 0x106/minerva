@@ -31,25 +31,16 @@ Each directory will contain relevant notes and links about that particular topic
 │   └── virtualenv.md
 ├── readme.md
 ├── secondary
-│   ├── c#
-│   │   ├── c#.md
-│   │   └── unity.md
-│   ├── c++
-│   │   └── c++.md
-│   ├── clojure
-│   │   └── clojure.md
-│   ├── go
-│   │   └── go.md
-│   ├── haskell
-│   │   └── haskell.md
-│   ├── java
-│   │   └── java.md
-│   ├── ruby
-│   │   └── ruby.md
-│   ├── rust
-│   │   └── rust.md
-│   └── scala
-│       └── scala.md
+│   ├── c#.md
+│   ├── c++.md
+│   ├── clojure.md
+│   ├── go.md
+│   ├── haskell.md
+│   ├── java.md
+│   ├── ruby.md
+│   ├── rust.md
+│   ├── scala.md
+│   └── unity.md
 ├── swift
 │   ├── cmd.md
 │   ├── ios.md
