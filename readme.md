@@ -1,5 +1,7 @@
 # Minerva
 
+https://en.wikipedia.org/wiki/Minerva
+
 This repository is intended as an overview of all the computer science topics
 that I feel are important as a modern developer.
 
