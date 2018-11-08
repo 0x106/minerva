@@ -1,0 +1,1 @@
+- [General list of algorithms for computer scientists](https://medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)

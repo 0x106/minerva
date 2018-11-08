@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Minerva
 This repository is intended as an overview of all the computer science topics
 that I feel are important as a modern developer.
 
-Each directory contains relevant notes and links about that particular topic.
+Each directory will contain relevant notes and links about that particular topic. 
 ```
 .
 ├── javascript
@@ -18,6 +18,7 @@ Each directory contains relevant notes and links about that particular topic.
 │   ├── react.md
 │   ├── testing.md
 │   └── typescript.md
+├── license.txt
 ├── python
 │   ├── anaconda.md
 │   ├── matplotlib.md
@@ -79,13 +80,34 @@ Each directory contains relevant notes and links about that particular topic.
 │   ├── webpack.md
 │   └── yarn.md
 └── topics
-    ├── algorithms
-    ├── dl
+    ├── complexity.md
+    ├── cryptography.md
+    ├── data-structures
+    │   ├── graphs.md
+    │   ├── heap.md
+    │   ├── linked-list.md
+    │   ├── primitive.md
+    │   ├── queue.md
+    │   └── stack.md
+    ├── dynamic-prog.md
     ├── game-dev
+    ├── hashing.md
+    ├── machine-learning
     ├── maths
     ├── misc
     │   └── regex.md
-    └── networking
+    ├── networking
+    ├── notes.md
+    ├── os.md
+    ├── recursion.md
+    ├── search
+    └── sort
+        ├── bubble.md
+        ├── heap.md
+        ├── insertion.md
+        ├── merge.md
+        ├── quick.md
+        └── selection.md
 ```
 
 <!-- end -->
