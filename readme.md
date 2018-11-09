@@ -9,6 +9,7 @@ Each directory will contain relevant notes and links about that particular topic
 ```
 .
 ├── javascript
+│   ├── babylon.md
 │   ├── css
 │   │   ├── less.md
 │   │   └── sass.md
@@ -16,6 +17,7 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── language.md
 │   ├── node.md
 │   ├── react.md
+│   ├── redux.md
 │   ├── testing.md
 │   └── typescript.md
 ├── license.txt
@@ -41,6 +43,7 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── rust.md
 │   ├── scala.md
 │   └── unity.md
+├── staging.md
 ├── swift
 │   ├── cmd.md
 │   ├── ios.md
