@@ -75,6 +75,7 @@ store.dispatch( createAction('action1') )
 **A tiny Redux implementation**
 
 ```javascript
+// https://blog.isquaredsoftware.com/presentations/workshops/redux-fundamentals/store-api.html#/11
 function createStore(reducer, preloadedState) {
     let state = preloadedState;
     const listeners = [];
