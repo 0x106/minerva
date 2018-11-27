@@ -21,6 +21,8 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── testing.md
 │   └── typescript.md
 ├── license.txt
+├── private
+│   └── main.md
 ├── python
 │   ├── anaconda.md
 │   ├── matplotlib.md
@@ -52,6 +54,7 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── swift.md
 │   ├── testing.md
 │   └── xcode.md
+├── todo.md
 ├── tools
 │   ├── aws
 │   ├── babel.md
@@ -73,35 +76,36 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── resources.md
 │   ├── webpack.md
 │   └── yarn.md
-└── topics
-    ├── complexity.md
-    ├── cryptography.md
-    ├── data-structures
-    │   ├── graphs.md
-    │   ├── heap.md
-    │   ├── linked-list.md
-    │   ├── primitive.md
-    │   ├── queue.md
-    │   └── stack.md
-    ├── dynamic-prog.md
-    ├── game-dev
-    ├── hashing.md
-    ├── machine-learning
-    ├── maths
-    ├── misc
-    │   └── regex.md
-    ├── networking
-    ├── notes.md
-    ├── os.md
-    ├── recursion.md
-    ├── search
-    └── sort
-        ├── bubble.md
-        ├── heap.md
-        ├── insertion.md
-        ├── merge.md
-        ├── quick.md
-        └── selection.md
+├── topics
+│   ├── complexity.md
+│   ├── cryptography.md
+│   ├── data-structures
+│   │   ├── graphs.md
+│   │   ├── heap.md
+│   │   ├── linked-list.md
+│   │   ├── primitive.md
+│   │   ├── queue.md
+│   │   └── stack.md
+│   ├── dynamic-prog.md
+│   ├── game-dev
+│   ├── hashing.md
+│   ├── machine-learning
+│   ├── maths
+│   ├── misc
+│   │   └── regex.md
+│   ├── networking
+│   ├── notes.md
+│   ├── os.md
+│   ├── recursion.md
+│   ├── search
+│   └── sort
+│       ├── bubble.md
+│       ├── heap.md
+│       ├── insertion.md
+│       ├── merge.md
+│       ├── quick.md
+│       └── selection.md
+└── tutorials.md
 ```
 
 
