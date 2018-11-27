@@ -6,6 +6,7 @@ Things I want to learn & review
 - [ ] [bash] functions
 - [ ] [bash] if / for
 - [ ] typescript
+- [ ] docker!
 
 
 **advanced topics in js**
