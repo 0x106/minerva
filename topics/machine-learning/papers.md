@@ -1,0 +1,5 @@
+- [ ] https://arxiv.org/pdf/1811.10464.pdf#page=9&zoom=100,0,258
+- [ ] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks
+- [ ] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
+- [ ] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
+- [ ] https://arxiv.org/pdf/1703.06870.pdf%20http://arxiv.org/abs/1703.06870.pdf

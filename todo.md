@@ -25,6 +25,8 @@ _Resources_
 4. https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md
 5. http://eloquentjavascript.net/
 6. https://github.com/getify/You-Dont-Know-JS
+7. https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+8. https://github.com/greenido/Web-Workers-Examples-/blob/master/Example-pi.js
 
 
 **To add**

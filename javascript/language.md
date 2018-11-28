@@ -71,6 +71,9 @@ The solution is to wrap everything in brackets
 **What's the difference between `null` `undefined` and undeclared?**
 
 
+##### Engine + Callstack + Runtime
+
+V8 is a common JS engin, developed by Google, that powers both Chrome and Node.js. The V8 engine consists of two main components: the call stack, and the memory heap.
 
 
 
