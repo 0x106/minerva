@@ -10,18 +10,21 @@ Each directory will contain relevant notes and links about that particular topic
 .
 ├── javascript
 │   ├── babylon.md
-│   ├── css
-│   │   ├── less.md
-│   │   └── sass.md
 │   ├── electron.md
 │   ├── language.md
 │   ├── node.md
 │   ├── react.md
 │   ├── redux.md
 │   ├── testing.md
-│   └── typescript.md
+│   ├── typescript.md
+│   └── web
+│       ├── css
+│       │   ├── less.md
+│       │   └── sass.md
+│       └── web-components.md
 ├── license.txt
 ├── private
+│   ├── bpf.md
 │   └── main.md
 ├── python
 │   ├── anaconda.md
@@ -47,6 +50,17 @@ Each directory will contain relevant notes and links about that particular topic
 │   └── unity.md
 ├── staging.md
 ├── swift
+│   ├── Learning
+│   │   ├── Package.swift
+│   │   ├── README.md
+│   │   ├── Sources
+│   │   │   └── Learning
+│   │   │       └── main.swift
+│   │   └── Tests
+│   │       ├── LearningTests
+│   │       │   ├── LearningTests.swift
+│   │       │   └── XCTestManifests.swift
+│   │       └── LinuxMain.swift
 │   ├── cmd.md
 │   ├── ios.md
 │   ├── macos.md
@@ -90,6 +104,7 @@ Each directory will contain relevant notes and links about that particular topic
 │   ├── game-dev
 │   ├── hashing.md
 │   ├── machine-learning
+│   │   └── papers.md
 │   ├── maths
 │   ├── misc
 │   │   └── regex.md

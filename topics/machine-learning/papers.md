@@ -3,3 +3,4 @@
 - [ ] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks
 - [ ] https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks
 - [ ] https://arxiv.org/pdf/1703.06870.pdf%20http://arxiv.org/abs/1703.06870.pdf
+- [ ] https://www.topbots.com/most-important-ai-research-papers-2018/
