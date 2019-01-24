@@ -10,3 +10,4 @@
 **Links**
 
 1. [Overview notes from Apple](https://developer.apple.com/documentation/metal)
+2. [Introductory Tutorial](https://www.raywenderlich.com/7475-metal-tutorial-getting-started)

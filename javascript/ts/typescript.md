@@ -133,6 +133,12 @@ These two examples are functionally equivalent. They are used by the compiler an
 
 
 
+**Typescript Book**
+
+1. https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
+2. 
+
+
 
 
 

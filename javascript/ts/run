@@ -1,0 +1,8 @@
+#! /bin/bash
+
+clear
+echo 'Compiling `.ts` file.'
+tsc main.ts
+echo 'Running `.js` file.'
+node main.js
+echo 'Done.'
